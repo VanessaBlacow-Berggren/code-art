@@ -1,7 +1,7 @@
 html, body {
   background-color: #9196A6;
   max-width: 800px;
-  margin: auto;
+  margin: 0;
   padding: 0;
 }
 canvas {
